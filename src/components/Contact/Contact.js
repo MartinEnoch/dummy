@@ -26,7 +26,7 @@ const Contact = () => {
                     <Instagram/>
                     </IconButton>
                 </a> 
-                <a href='https://wa.me/8838523866'>
+                <a href='https://wa.me/919597893992'>
                     <IconButton>
                     <WhatsApp/>
                     </IconButton>
